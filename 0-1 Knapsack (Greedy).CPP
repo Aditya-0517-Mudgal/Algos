@@ -16,7 +16,8 @@ int Max(int a, int b)
 {   return a>b?a:b;
 }
 void main()
-{   int wt[]={2,3,4};
+{   clrscr();
+    int wt[]={2,3,4};
     int val[]={10,20,6};
     int W=8;
     int n=sizeof(wt)/sizeof(wt[0]);
